@@ -1,0 +1,17 @@
+* {
+  font-family: "Nanum Gothic", sans-serif;
+  background-color: #343131;
+  color: aliceblue;
+}
+li {
+  list-style-type: none;
+}
+
+a {
+  font-size: 33px;
+  text-decoration: none;
+  color: red;
+  text-align: center;
+  min-width: 100%;
+  display: inline-block;
+}
